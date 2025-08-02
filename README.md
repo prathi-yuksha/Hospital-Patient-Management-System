@@ -39,6 +39,11 @@ This project is a complete hospital database management system using **MySQL** a
 
 ---
 
+## 📊 Power BI Dashboard
+
+![Power BI Visualizations](Screenshot.png)
+
+
 ## 📊 Power BI Dashboard Visualizations
 
 The dashboard includes the following visuals:
